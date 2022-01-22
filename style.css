@@ -1,0 +1,13 @@
+.info-background{
+    background-color:#FEEAE9 ;
+}
+.categories img{
+   width: 100px;
+}
+btn-warning{
+    background-image: linear-gradient(100% 100%);
+    color:white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
